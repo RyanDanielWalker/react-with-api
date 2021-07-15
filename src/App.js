@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Headlines from './Headlines';
+import Headlines from './components/Headlines';
 
 function App() {
   return (
     <React.Fragment>
-      < Headlines />
+      <Headlines />
     </React.Fragment>
   );
 }
